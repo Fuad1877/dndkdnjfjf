@@ -770,5 +770,5 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("تــــۆکین لێرە دانێ");
+client.login("OTkxMzE2NTc1NzUzODc5NTgy.GOn_Mp.Yz2E3ixm9wqu2FtLMIiRLTTGXhgewI6dhRKkbA");
 ////////////Coded By ANO
